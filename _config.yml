@@ -17,3 +17,4 @@ plugins:
     - PULL_REQUEST_TEMPLATE.md
 
 permalink: /blog/:year/:month/:day/:title
+theme: jekyll-theme-minimal
