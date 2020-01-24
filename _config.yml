@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 name: Eric Stimmel
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /mostly-revit-blog/:year/:month/:day/:title
