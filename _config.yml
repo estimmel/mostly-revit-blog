@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 name: Eric Stimmel
-markdown: kramdown
 permalink: /:year/:month/:day/:title
+markdown: kramdown
+kramdown:
+    input: GFM
+    syntax_highlighter: rouge
