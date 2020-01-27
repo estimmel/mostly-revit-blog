@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Cycle
-author: Eric Stimmel
 date: 2010-12-14 22:02:30
+author: Eric Stimmel
 tags: [AutoCAD, Revit, Rhino]
 abstract: Here's a quick one. A colleague of mine asked me what the AutoCAD command was for choosing which object to select when there are overlapping lines...
 ---

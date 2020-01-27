@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Sorted Directory Listing  
+date: 2013-10-11 12:56:00
 author: Eric Stimmel  
-date: 2013-10-11 12:56  
-slug: 2013/10/11/sorted-directory-listing.md  
 tags: [windows]  
 abstract: A quick Windows commandline one-liner to get a list of files and folders.   
 ---

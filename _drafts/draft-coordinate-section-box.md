@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Coordinate Section Boxes 
-author: Eric Stimmel  
 date: 2012-08-03 14:24:00  
+author: Eric Stimmel  
 tags: [Revit]
 abstract: There is a simple solution to getting the extents of a section box from one Revit model to another. 
 ---

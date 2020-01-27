@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Dimension: Centerline Symbol  
-author: Eric Stimmel  
 date: 2012-11-02 10:55:00  
+author: Eric Stimmel  
 tags: [Revit]  
 abstract: How does a dimension witness line know it's a centerline?  
 ---

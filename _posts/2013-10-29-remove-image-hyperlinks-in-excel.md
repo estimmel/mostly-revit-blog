@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Remove Hyperlinks from Images in Excel  
+date: 2013-10-29 17:37:00
 author: Eric Stimmel  
-date: 2013-10-29 17:37  
 tags: [VBA, Excel]  
 abstract: Here's a VBA snippet for removing hyperlinks from images in Excel.  
 ---

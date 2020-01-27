@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Five Ideas for a Revit Blog Post  
+date: 2015-02-24 20:42:00
 author: Eric Stimmel  
-date: 2015-02-24 20:42  
 abstract: A small tribute and some ideas...  
 ---
 

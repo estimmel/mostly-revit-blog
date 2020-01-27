@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Revit Builds Translated into Update Names
-author: Eric Stimmel
 date: 2015-04-13
+author: Eric Stimmel
 abstract: I've been working on a feature of a custom application that displays the current update of the installed version of Revit. This link provides a nice rundown of the name (Revit 2015 Update Release 7) and the corresponding build number (20150303_0715).
 ---
 

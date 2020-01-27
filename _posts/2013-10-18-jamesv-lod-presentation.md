@@ -1,8 +1,8 @@
 ---
 layout: post
 title: LOD Specification Revealed! - NYC RUG Presentation  
+date: 2013-10-18 12:18:00
 author: Eric Stimmel  
-date: 2013-10-18 12:18  
 tags: [revit]    
 abstract: Another great presentation by another former colleague - this time James Vandezande talks about the recently released LOD Specification 2013.  
 ---

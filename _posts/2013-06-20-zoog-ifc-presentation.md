@@ -1,8 +1,8 @@
 ---
 layout: post
 title: IFC - What It Is and Why You Should Care  
+date: 2013-06-20 11:17:00 
 author: Eric Stimmel  
-date: 2013-06-20 11:17  
 abstract: Great presentation on what IFC is and why it's important.  
 ---
 

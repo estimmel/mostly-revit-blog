@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Office Desk Temperature  
+date: 2013-02-21 23:04:00 
 author: Eric Stimmel  
-date: 2013-02-21 23:04  
-slug: 2013/02/21/office-desk-temperature  
-tags: arduino, data, temperature, humidity, cosm  
+tags: [arduino, data, temperature, humidity, cosm]
 abstract: Here's a simple graph of the temperature at my desk at work.  
 ---
 

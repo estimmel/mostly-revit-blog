@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Detail Groups vs. Detail Components  
+date: 2012-07-17 16:11:00  
 author: Eric Stimmel  
-date: 2012-07-17  16:11  
-slug: 2012/07/17/detail-groups-vs-detail-components  
 tags: [revit, drafting]  
 abstract: A simple evaluation of file size when using detail components vs. detail groups. Spoiler: detail components are more efficient.
 ---

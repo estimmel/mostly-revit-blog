@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Revit Server Model List Using the REST API 
+date: 2012-05-08 12:32:00 
 author: Eric Stimmel  
-date: 2012-05-08 12:32  
 tags: [Revit Server, AutoHotKey]
 abstract: Using the REST API to get a list of models from Revit Server.
 ---

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Upgrade a Model on Revit Server 
+date: 2012-06-20 17:13:00
 author: Eric Stimmel  
-date: 2012-06-20  17:13  
-slug: 2012/06/20/upgrade-revit-server-model  
 tags: [revit, revit server]  
 abstract: Link to a video describing how to upgrade a model on Revit Server.
 ---

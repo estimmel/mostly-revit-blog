@@ -1,8 +1,8 @@
 ---
 layout: post
 title: JFK - Delta Air Lines
-author: Eric Stimmel
 date: 2010-08-11 13:23:10
+author: Eric Stimmel
 abstract: Delta Air Lines and the Port Authority of New York and New Jersey jointly announced the $1.2 billion project to expand Terminal 4 at JFK Airport in New York today
 ---
 

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Re-Selection
+date: 2012-05-25 02:52:00
 author: Eric Stimmel  
-date: 2012-05-25  02:52 
-slug: 2012/05/25/re-selection
 tags: [Revit]  
 abstract: Quick tip - how to reselect your previous selection. 
 ---
