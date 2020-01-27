@@ -25,7 +25,7 @@ So the mystery is solved and the rework begins. I have found that once I bypass 
   [JV]: http://allthingsbim.blogspot.com/
   [goBIM]: http://go-bim.iankeough.com/wordpress/
   [Mastering Autodesk Revit Architecture 2011]: http://www.amazon.com/gp/product/0470626968?ie=UTF8&tag=ericstimmel-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470626968/
-  [LoadFileScript]: /images/posts/2010-08-26-revit-journal-file-scripting/Journal_LoadFileScript_sm.jpg
+  [LoadFileScript]: https://estimmel.github.io/mostly-revit-blog/images/posts/2010-08-26-revit-journal-file-scripting/Journal_LoadFileScript_sm.jpg
   [AUGI forums]: http://forums.augi.com/
   [quote David Kingham]: http://forums.augi.com/showpost.php?p=1075925&postcount=48
 
