@@ -4,7 +4,7 @@ title: Detail Groups vs. Detail Components
 date: 2012-07-17 16:11:00  
 author: Eric Stimmel  
 tags: [revit, drafting]  
-abstract: A simple evaluation of file size when using detail components vs. detail groups. Spoiler: detail components are more efficient.
+abstract: A simple evaluation of file size when using detail components vs. detail groups. Spoiler - detail components are more efficient.
 ---
 
 I'm sure this has been done before, but here's a simple file size comparison for using detail **components** vs. using detail **groups**. I took a simple 1x4 and made a detail group out of this using six lines and arrayed it 100 times in one direction and arrayed the array 100 times in the other direction. You can see images of it below. I then took the out-of-the-box Revit detail component of a 1x4 and inserted that into a new file starting from the same template and arrayed it the same way. I then saved the files as new files (to compress them) and checked the file sizes. I did the same thing for one instance for both the detail component and the detail group.
