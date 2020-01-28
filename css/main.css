@@ -21,7 +21,7 @@ a:hover {
 h1 {
     font-size: 3em;
 }
-.pre {
+pre {
 	box-sizing: border-box;
 	width: 100%;
 	padding: 0;
@@ -32,7 +32,6 @@ h1 {
 	line-height: 20px;
 	background: #efefef;
 	border: 1px solid #777;
-	background: url(lines.png) repeat 0 0;
 	padding: 10px;
 	color: #333;
 }
