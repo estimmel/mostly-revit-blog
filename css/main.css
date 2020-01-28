@@ -42,7 +42,7 @@ img {
     height: auto;
 }
 hr {
-   height: 30px;
+   padding-top: 30px;
 }
 
 /* obtained from https://gist.github.com/demisx/025698a7b5e314a7a4b5 */
