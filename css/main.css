@@ -35,12 +35,14 @@ pre {
 	padding: 10px;
 	color: #333;
 }
-
 img {
-  display: block;
-  max-width:550px;
-  width: auto;
-  height: auto;
+    display: block;
+    max-width:550px;
+    	width: auto;
+    height: auto;
+}
+hr {
+   margin: 5px;
 }
 
 /* obtained from https://gist.github.com/demisx/025698a7b5e314a7a4b5 */
