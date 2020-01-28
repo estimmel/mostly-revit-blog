@@ -3,10 +3,19 @@ body {
     margin: auto;
 }
 #maintitlelink {
-    font-size: 3em;
+	font-size: 48px;
+	display: block;
+	font-weight: bold;
+	margin-bottom: 0.3em;
 }
 #byline {
-    font-size: 1.5em;
+	color: #999;
+	line-height: 18px;
+	position: relative;
+	top: -10px;
+}
+.post {
+    margin-bottom: 75px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
