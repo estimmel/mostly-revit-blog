@@ -22,11 +22,19 @@ h1 {
     font-size: 3em;
 }
 pre {
-    overflow-x: auto;
-}
-
-.code {
-    background-color: #D3D3D3
+	box-sizing: border-box;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	overflow: auto;
+	overflow-y: hidden;
+	font-size: 12px;
+	line-height: 20px;
+	background: #efefef;
+	border: 1px solid #777;
+	background: url(lines.png) repeat 0 0;
+	padding: 10px;
+	color: #333;
 }
 
 /* obtained from https://gist.github.com/demisx/025698a7b5e314a7a4b5 */
