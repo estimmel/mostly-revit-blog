@@ -22,6 +22,9 @@ a:hover {
 h1 {
     font-size: 3em;
 }
+pre {
+    overflow-x: auto;
+}
 
 /* obtained from https://gist.github.com/demisx/025698a7b5e314a7a4b5 */
 .highlight  { background: #ffffff; }
