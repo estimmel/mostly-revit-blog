@@ -23,6 +23,9 @@ h1 {
 }
 pre {
     overflow-x: auto;
+}
+
+.code {
     background-color: #D3D3D3
 }
 
