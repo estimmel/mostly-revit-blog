@@ -2,6 +2,12 @@ body {
     width: 590px;
     margin: auto;
 }
+#maintitlelink {
+    font-size: 3em;
+}
+#byline {
+    font-size: 1.5em;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -21,6 +27,9 @@ a:hover {
 }
 h1 {
     font-size: 3em;
+}
+h2 {
+    font-size: 2.5em;
 }
 pre {
 	box-sizing: border-box;
