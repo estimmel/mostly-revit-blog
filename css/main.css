@@ -1,4 +1,4 @@
-body .post {
+body {
     width: 590px;
     margin: auto;
 	line-height: 1.7em;
@@ -28,7 +28,7 @@ header {
 	padding-top: 64px;
 	padding-bottom: 16px;
 	text-align: center;
-	}
+}
 #maintitlelink {
 	font-size: 3em;
 	display: block;
@@ -42,7 +42,14 @@ header {
 	top: -10px;
 }
 .post {
+    width: 590px;
+    margin: auto;
     margin-bottom: 75px;
+	line-height: 1.7em;
+	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 1.2em;
+	color: #333;
+	background-color: white;
 }
 pre {
 	box-sizing: border-box;
