@@ -52,6 +52,14 @@ header {
 	color: #333;
 	background-color: white;
 }
+.date {
+    margin: auto;
+	line-height: 1.7em;
+	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 1.2em;
+	color: #333;
+	background-color: white;
+}
 pre {
 	box-sizing: border-box;
 	width: 100%;
