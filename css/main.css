@@ -7,7 +7,7 @@ body {
 	background-color: white;
 }
 #maintitlelink {
-	font-size: 48px;
+	font-size: 3em;
 	display: block;
 	font-weight: bold;
 	margin-bottom: 0.3em;
@@ -41,7 +41,7 @@ pre {
 	margin: 0;
 	overflow: auto;
 	overflow-y: hidden;
-	font-size: 12px;
+	font-size: 1em;
 	line-height: 20px;
 	background: #efefef;
 	border: 1px solid #777;
@@ -50,7 +50,7 @@ pre {
 }
 img {
     display: block;
-    max-width:550px;
+    max-width:590px;
     width: auto;
     height: auto;
 }
