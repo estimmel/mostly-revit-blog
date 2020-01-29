@@ -7,9 +7,6 @@ body .post {
 	color: #333;
 	background-color: white;
 }
-.post {
-    margin-bottom: 75px;
-}
 a {
     text-decoration: none;
     color: #999;
@@ -43,6 +40,9 @@ header {
 	line-height: 18px;
 	position: relative;
 	top: -10px;
+}
+.post {
+    margin-bottom: 75px;
 }
 pre {
 	box-sizing: border-box;
