@@ -66,13 +66,6 @@ pre {
 	padding: 10px;
 	color: #333;
 }
-span {
-    margin: auto;
-	line-height: 1.7em;
-	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 1.2em;
-	color: #333;
-}
 img {
     display: block;
     max-width:590px;
