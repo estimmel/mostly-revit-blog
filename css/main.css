@@ -1,4 +1,4 @@
-body {
+body .post {
     width: 590px;
     margin: auto;
 	line-height: 1.7em;
@@ -6,6 +6,9 @@ body {
 	font-size: 1.2em;
 	color: #333;
 	background-color: white;
+}
+.post {
+    margin-bottom: 75px;
 }
 a {
     text-decoration: none;
@@ -40,9 +43,6 @@ header {
 	line-height: 18px;
 	position: relative;
 	top: -10px;
-}
-.post {
-    margin-bottom: 75px;
 }
 pre {
 	box-sizing: border-box;
