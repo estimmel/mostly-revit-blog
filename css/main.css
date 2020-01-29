@@ -1,11 +1,7 @@
 body {
     width: 590px;
-    margin-top: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	margin-right: 0px;
+    margin: auto;
 	line-height: 1.7em;
-	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 1.2em;
 	color: #333;
 	background-color: white;
