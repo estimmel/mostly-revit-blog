@@ -1,4 +1,4 @@
-body span {
+body {
     width: 590px;
     margin: auto;
 	line-height: 1.7em;
@@ -42,7 +42,7 @@ header {
 	position: relative;
 	top: -10px;
 }
-.post {
+.post span {
     width: 590px;
     margin: auto;
     margin-bottom: 75px;
