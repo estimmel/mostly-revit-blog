@@ -2,4 +2,8 @@ name: Eric Stimmel
 title: Mostly Revit...
 permalink: /:year/:month/:day/:title
 markdown: kramdown
-highlighter: rouge
+kramdown:
+    highlighter: rouge
+    syntax_highlighter_opts:
+        block:
+            line_numbers: falso
