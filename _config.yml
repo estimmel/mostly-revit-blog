@@ -6,4 +6,6 @@ kramdown:
     highlighter: rouge
     syntax_highlighter_opts:
         block:
-            line_numbers: falso
+            line_numbers: false
+plugins:
+  - jekyll-feed
