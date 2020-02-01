@@ -13,7 +13,7 @@ So this seems reasonable enough and maybe even easy, just freeze the layer or la
 
 Below is the script I came up with in all it's commented glory. For now I'll just let is stand at that; it wasn't a perfect script and there was some measure of manual checking, but it got the bulk of the work done in short order. I'll have to let this post sit for awhile and come back to it after rereading it once or twice. I learned a lot about logic and scripting writing this and several portions of this script seem to reappear often enough to get their own post so for now, for the adventurous, enjoy! 
 
-```lisp
+```common_lisp
 ;;  
 ;; ChLayer.lsp  
 ;;  
