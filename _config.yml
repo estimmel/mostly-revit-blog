@@ -12,6 +12,6 @@ kramdown:
             line_numbers: false
         block:
             class: 'line-%i'
-            line_numbers: true
+            line_numbers: false
 plugins:
   - jekyll-feed
