@@ -46,7 +46,7 @@ header {
     text-align: center;
 }
 .post {
-    width: 590px;
+    width: 100%;
     margin: auto;
     margin-bottom: 75px;
 	line-height: 1.7em;
@@ -79,7 +79,7 @@ pre {
 }
 img {
     display: block;
-    max-width:590px;
+    max-width:100%;
     width: auto;
     height: auto;
 }
