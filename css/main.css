@@ -47,11 +47,14 @@ header {
 #maintitlelink a:hover {
 	text-decoration: none;
 }
+#maintitlelink a:visited {
+	color: #4679B9;
+}
 #byline {
 	color: #666666;
 	line-height: 18px;
 	position: relative;
-	top: -12px;
+	top: -18px;
 }
 .container {
     max-width: 650px;
