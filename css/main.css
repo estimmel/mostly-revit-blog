@@ -1,9 +1,9 @@
 body {
 	margin-left: 10px;
 	margin-right: 10px;
-	line-height: 1.7em;
+	line-height: 1.5em;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 1.0em;
+	font-size: 1em;
 	color: #333;
 	background-color: white;
 }
@@ -15,11 +15,11 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2.8em;
     color: black;
 }
 h2 {
-    font-size: 2.5em;
+    font-size: 2.3em;
     line-height: 1em;
     color: black;
 }
@@ -30,7 +30,7 @@ header {
 	text-align: center;
 }
 #maintitlelink {
-	font-size: 3em;
+	font-size: 2.8em;
 	display: block;
 	font-weight: bold;
 	margin-bottom: 0.3em;
@@ -54,17 +54,17 @@ header {
     width: 100%;
     margin: auto;
     margin-bottom: 75px;
-	line-height: 1.7em;
+	line-height: 1.5em;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 1.0em;
+	font-size: 1em;
 	color: #333;
 	background-color: white;
 }
 .date {
     margin: auto;
-	line-height: 1.7em;
+	line-height: 1.5em;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 1.0em;
+	font-size: 1em;
 	color: #333;
 	background-color: white;
 }
