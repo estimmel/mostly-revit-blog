@@ -151,3 +151,11 @@ img {
 .highlight .lineno {-webkit-user-select: none;-moz-user-select: none; -o-user-select: none;} 
 .lineno::-moz-selection {background-color: transparent;} /* Mozilla specific */
 .lineno::selection {background-color: transparent;} /* Other major browsers */
+
+@media screen and (max-device-width: 480px){
+    body{
+        -webkit-text-size-adjust:none;
+        font-family:Helvetica, Arial, Verdana, sans-serif;
+        padding:5px;
+    }
+}
