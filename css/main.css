@@ -86,25 +86,25 @@ img {
 }
 
 @media (max-width: 760px) {
-	main {
+	body {
 		width: 500px;
 		max-width: 500px;
 		min-width: 500px;
-		}
+	}
 }
 @media (max-width: 600px) {
-	main {
+	body {
 		width: 450px;
 		max-width: 450px;
 		min-width: 450px;
-		}
+	}
 }
 @media (max-width: 480px) {
-	main {
+	body {
 		width: 311px;
 		max-width: 311px;
 		min-width: 311px;
-		}
+	}
 }
 
 
