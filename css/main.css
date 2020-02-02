@@ -35,7 +35,7 @@ h2 {
     color: #000;
 }
 
-h2 a:hover {
+h2 a:hover, h2 a:visited:hover {
     color: #4679B9;
     text-decoration: none;
 }
