@@ -1,6 +1,6 @@
 body {
-	margin-left: 5px;
-	margin-right: 5px;
+	margin-left: 0;
+	margin-right: 0;
 	line-height: 1.7em;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 1.2em;
@@ -87,6 +87,28 @@ img {
     max-width:100%;
     width: auto;
     height: auto;
+}
+
+@media (max-width: 760px) {
+	.container {
+		width: 500px;
+		max-width: 500px;
+		min-width: 500px;
+		}
+}
+@media (max-width: 600px) {
+	.container {
+		width: 450px;
+		max-width: 450px;
+		min-width: 450px;
+		}
+}
+@media (max-width: 480px) {
+	.container {
+		width: 311px;
+		max-width: 311px;
+		min-width: 311px;
+		}
 }
 
 
