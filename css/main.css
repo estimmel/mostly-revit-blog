@@ -42,6 +42,9 @@ header {
 	position: relative;
 	top: -10px;
 }
+.pagination {
+    text-align: center;
+}
 .post {
     width: 590px;
     margin: auto;
