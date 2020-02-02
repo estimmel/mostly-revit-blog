@@ -1,6 +1,6 @@
 body {
-	margin-left: 0px;
-	margin-right: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
 	line-height: 1.7em;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 1.2em;
@@ -89,7 +89,9 @@ img {
     height: auto;
 }
 iframe {
-    max-width: 100%;
+    max-width: 100% !important;
+    width: auto !important;
+    height: auto !important;
 }
 
 
