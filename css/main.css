@@ -11,7 +11,7 @@ a {
     text-decoration: none;
 }
 a:link {
-	color: #1858A8;
+	color: #4679B9;
 }
 a:hover {
     text-decoration: underline;
@@ -21,7 +21,7 @@ a:visited {
 }
 h1 {
     font-size: 2.8em;
-    color: #1858A8;
+    color: #4679B9;
 }
 h2 a:link {
     font-size: 2.3em;
@@ -29,7 +29,7 @@ h2 a:link {
     color: black;
 }
 h2 a:hover {
-	color: #1858A8;
+	color: #4679B9;
 }
 header {
 	line-height: 2em;
@@ -37,18 +37,21 @@ header {
 	padding-bottom: 16px;
 	text-align: center;
 }
-#maintitlelink a:link {
+#maintitlelink {
 	font-size: 2.8em;
 	display: block;
 	font-weight: bold;
 	margin-bottom: 0.3em;
-	color: #1858A8;
+	color: #4679B9;
+}
+#maintitlelink a:hover {
+	text-decoration: none;
 }
 #byline {
 	color: #666666;
 	line-height: 18px;
 	position: relative;
-	top: -10px;
+	top: -12px;
 }
 .container {
     max-width: 650px;
