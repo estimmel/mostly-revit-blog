@@ -91,25 +91,12 @@ img {
 
 @media (max-width: 760px) {
 	.container {
-		width: 500px;
-		max-width: 500px;
-		min-width: 500px;
+		width: 590px;
+		max-width: 590px;
+		min-width: 590px;
 		}
 }
-@media (max-width: 600px) {
-	.container {
-		width: 450px;
-		max-width: 450px;
-		min-width: 450px;
-		}
-}
-@media (max-width: 480px) {
-	.container {
-		width: 311px;
-		max-width: 311px;
-		min-width: 311px;
-		}
-}
+
 
 
 /* obtained from https://gist.github.com/demisx/025698a7b5e314a7a4b5 */
