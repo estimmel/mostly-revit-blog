@@ -3,7 +3,7 @@ body {
 	margin-right: 10px;
 	line-height: 1.7em;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 1.2em;
+	font-size: 1.0em;
 	color: #333;
 	background-color: white;
 }
@@ -56,7 +56,7 @@ header {
     margin-bottom: 75px;
 	line-height: 1.7em;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 1.2em;
+	font-size: 1.0em;
 	color: #333;
 	background-color: white;
 }
@@ -64,7 +64,7 @@ header {
     margin: auto;
 	line-height: 1.7em;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 1.2em;
+	font-size: 1.0em;
 	color: #333;
 	background-color: white;
 }
