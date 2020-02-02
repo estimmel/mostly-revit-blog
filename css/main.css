@@ -88,6 +88,9 @@ img {
     width: auto;
     height: auto;
 }
+iframe {
+    max-width: 100%;
+}
 
 
 /* obtained from https://gist.github.com/demisx/025698a7b5e314a7a4b5 */
