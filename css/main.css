@@ -43,7 +43,7 @@ header {
 	top: -10px;
 }
 .container {
-    max-width: 650px;
+    max-width: 1024px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -88,15 +88,6 @@ img {
     width: auto;
     height: auto;
 }
-
-@media (max-width: 760px) {
-	.container {
-		width: 590px;
-		max-width: 590px;
-		min-width: 590px;
-		}
-}
-
 
 
 /* obtained from https://gist.github.com/demisx/025698a7b5e314a7a4b5 */
