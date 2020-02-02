@@ -37,7 +37,7 @@ header {
 	padding-bottom: 16px;
 	text-align: center;
 }
-#maintitlelink, #maintitlelink a:link {
+#maintitlelink a:link {
 	font-size: 2.8em;
 	display: block;
 	font-weight: bold;
