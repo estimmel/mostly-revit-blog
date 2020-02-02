@@ -1,4 +1,5 @@
 body {
+    max-width: 650px;
     margin: 0;
 	line-height: 1.7em;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
@@ -83,6 +84,27 @@ img {
     height: auto;
 }
 
+@media (max-width: 760px) {
+	main {
+		width: 500px;
+		max-width: 500px;
+		min-width: 500px;
+		}
+}
+@media (max-width: 600px) {
+	main {
+		width: 450px;
+		max-width: 450px;
+		min-width: 450px;
+		}
+}
+@media (max-width: 480px) {
+	main {
+		width: 311px;
+		max-width: 311px;
+		min-width: 311px;
+		}
+}
 
 
 
