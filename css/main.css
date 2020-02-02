@@ -9,19 +9,27 @@ body {
 }
 a {
     text-decoration: none;
-    color: #999;
+}
+a:link {
+	color: #1858A8;
 }
 a:hover {
     text-decoration: underline;
 }
+a:visited {
+	color: #4D4D4D;
+}
 h1 {
     font-size: 2.8em;
-    color: black;
+    color: #1858A8;
 }
-h2 {
+h2, h2 a:link {
     font-size: 2.3em;
     line-height: 1em;
     color: black;
+}
+h2 a:hover {
+	color: #1858A8;
 }
 header {
 	line-height: 2em;
@@ -29,15 +37,15 @@ header {
 	padding-bottom: 16px;
 	text-align: center;
 }
-#maintitlelink {
+#maintitlelink, #maintitlelink a:link {
 	font-size: 2.8em;
 	display: block;
 	font-weight: bold;
 	margin-bottom: 0.3em;
-	color: black;
+	color: #1858A8;
 }
 #byline {
-	color: #999;
+	color: #666666;
 	line-height: 18px;
 	position: relative;
 	top: -10px;
