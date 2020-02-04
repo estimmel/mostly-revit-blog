@@ -131,20 +131,26 @@ iframe {
 }
 
 footer {
-    line-height: 2em;
+    width: 100%;
+    line-height: 1.5em;
     padding-top: 75px;
     padding-bottom: 16px;
     text-align: center;
-}
-
-#copyright {
-    width: 100%;
-    margin: auto;
-    line-height: 1.5em;
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 1em;
     color: #CCC;
     background-color: #fff;
+}
+
+#copyright {
+    position: relative;
+    margin: auto;
+}
+
+#rss {
+    position: relative;
+    margin: auto;
+    top: -6px;
 }
 
 /* obtained from https://gist.github.com/demisx/025698a7b5e314a7a4b5 */
