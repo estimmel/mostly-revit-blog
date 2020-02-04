@@ -105,6 +105,7 @@ header {
 }
 
 .copyright {
+    width: 100%;
     margin: auto;
     margin-top: 75px;
     line-height: 1.5em;
