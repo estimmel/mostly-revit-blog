@@ -1,6 +1,7 @@
 title: Mostly Revit...
 author: Eric Stimmel
 description: A blog mostly about Revit, but also sometimes about other things loosely related.
+feed_url: http://blog.ericstimmel.com/feed.xml
 permalink: /:year/:month/:day/:title
 paginate: 5
 markdown: kramdown
