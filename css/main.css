@@ -104,6 +104,15 @@ header {
     background-color: #fff;
 }
 
+.copyright {
+    margin: auto;
+    line-height: 1.5em;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1em;
+    color: #CCC;
+    background-color: #fff;
+}
+
 pre {
     box-sizing: border-box;
     width: 100%;
