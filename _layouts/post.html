@@ -2,7 +2,7 @@
 layout: default
 ---
 <h2>{{ page.title }}</h2>
-<span class="date">{{ page.date | date_to_string }}</span>
+<span class="date">{{ page.date | date: "%A, %B %-d, %Y" }}</span>
 
 <div class="post">
   {{ content }}
