@@ -106,6 +106,7 @@ header {
 
 .copyright {
     margin: auto;
+    margin-top: 75px;
     line-height: 1.5em;
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 1em;
