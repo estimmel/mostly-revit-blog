@@ -95,7 +95,7 @@ header {
     background-color: #fff;
 }
 
-.date {
+#date {
     margin: auto;
     line-height: 1.5em;
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
@@ -137,7 +137,7 @@ footer {
     text-align: center;
 }
 
-.copyright {
+#copyright {
     width: 100%;
     margin: auto;
     line-height: 1.5em;
