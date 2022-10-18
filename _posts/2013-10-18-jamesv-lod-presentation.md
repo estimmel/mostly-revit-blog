@@ -18,7 +18,7 @@ abstract: Another great presentation by another former colleague - this time Jam
 Recorded at the October 15, 2013 meeting of the [NYC Revit Users Group][nycrug], this video features James Vandezande from HOK discussing the first release of the Level of Development (LOD) Specification.
 
 
-[jv]: http://www.allthingsbim.com/
+[jv]: https://web.archive.org/web/20131019150008/http://www.allthingsbim.com/
 [nycrug]: http://www.meetup.com/NYC-RUG/events/135770592/
 [AU]: https://www.autodesk.com/autodesk-university/ "Autodesk University"
 [lod]: http://bimforum.org/
