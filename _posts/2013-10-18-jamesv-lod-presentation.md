@@ -20,5 +20,5 @@ Recorded at the October 15, 2013 meeting of the [NYC Revit Users Group][nycrug],
 
 [jv]: http://www.allthingsbim.com/
 [nycrug]: http://www.meetup.com/NYC-RUG/events/135770592/
-[AU]: http://au.autodesk.com "Autodesk University"
-[lod]: http://bimforum.org/lod/
+[AU]: https://www.autodesk.com/autodesk-university/ "Autodesk University"
+[lod]: http://bimforum.org/
