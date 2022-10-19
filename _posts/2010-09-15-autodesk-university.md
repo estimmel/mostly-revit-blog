@@ -9,6 +9,6 @@ abstract: I am heading to Las Vegas this year for Autodesk University!
 
 I am heading to Las Vegas this year for [Autodesk University][]! ![I'm attending AU 2010][]
 
-  [Autodesk University]: http://au.autodesk.com/
+  [Autodesk University]: https://www.autodesk.com/autodesk-university/
   [I'm attending AU 2010]: http://ericstimmel.com/blog_imgs/AU10_attending_275_250.jpg
 
