@@ -22,7 +22,7 @@ So the mystery is solved and the rework begins. I have found that once I bypass 
   [6]: http://forums.augi.com/showthread.php?t=65897 "The original thread"
   [7]: http://forums.augi.com/showthread.php?t=117310 "Dave Baldacchino's version"
   [8]: http://forums.augi.com/showthread.php?t=92831 "David Kingham's version"
-  [JV]: http://allthingsbim.blogspot.com/
+  [JV]: https://web.archive.org/web/20120129130419/http://www.allthingsbim.com/
   [goBIM]: http://go-bim.iankeough.com/wordpress/
   [Mastering Autodesk Revit Architecture 2011]: http://www.amazon.com/gp/product/0470626968?ie=UTF8&tag=ericstimmel-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470626968/
   [LoadFileScript]: https://estimmel.github.io/mostly-revit-blog/images/posts/2010-08-26-revit-journal-file-scripting/Journal_LoadFileScript_sm.jpg
