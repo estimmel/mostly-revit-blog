@@ -6,7 +6,7 @@ author: Eric Stimmel
 abstract: I've been working on a feature of a custom application that displays the current update of the installed version of Revit. This link provides a nice rundown of the name (Revit 2015 Update Release 7) and the corresponding build number (20150303_0715).
 ---
 
-I've been working on a feature of a custom application that displays the current update of the installed version of Revit. The article [How to tie the Build number with the Revit update][buildlist] on Autodesk's Knowledge Network provides a nice rundown of the name (Revit 2015 Update Release 7) and the corresponding build number (20150303_0715). I know this can be found in other places, but since this was recently published and complete for everything I needed, I figured a link wolid be nice.
+I've been working on a feature of a custom application that displays the current update of the installed version of Revit. The article [How to tie the Build number with the Revit update][buildlist] on Autodesk's Knowledge Network provides a nice rundown of the name (Revit 2015 Update Release 7) and the corresponding build number (20150303_0715). I know this can be found in other places, but since this was recently published and complete for everything I needed, I figured a link would be nice.
 
 2015:  
 > First Customer Ship Build: 20140223_1515  
