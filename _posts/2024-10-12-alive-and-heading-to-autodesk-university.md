@@ -10,5 +10,5 @@ Well It's been 4 years and I bet you thought this blog was abandoned... maybe yo
 
 [AS3201 \| Industry Alignment of BIM Data to Decarbonize Buildings](https://conferences.autodesk.com/flow/autodesk/au2024/sessioncatalog/page/inperson/session/1714434768695001NYJK)
 
-![au-2024-speaker-social-media-post-en_1600x900](https://github.com/user-attachments/assets/cbb0227e-c769-48a9-94a2-02fdad14c245)
-![1728677477933](https://github.com/user-attachments/assets/6ecddb69-2b17-48c1-a845-9f11c636caaa)
+![au-2024-speaker-social-media-post-en_1600x900](https://estimmel.github.io/mostly-revit-blog/images/posts/2024-10-12-alive-and-heading-to-autodesk-university/au-course-teaser.jpg)
+![1728677477933](https://estimmel.github.io/mostly-revit-blog/images/posts/2024-10-12-alive-and-heading-to-autodesk-university/au-2024-speaker-social-media-post-en_1600x900.png)
